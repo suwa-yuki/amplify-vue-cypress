@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"amplifyvuecypressad948fc0": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
